@@ -1,0 +1,9 @@
+{
+  "appId": "com.alfardous.center",
+  "appName": "سنتر الفردوس التعليمي",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#101d35"
+  }
+}
